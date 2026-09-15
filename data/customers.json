@@ -1,1 +1,17 @@
-
+[
+  {
+    "customer_id": 1001,
+    "customer_name": "Acme Corporation",
+    "country": "Yemen"
+  },
+  {
+    "customer_id": 1002,
+    "customer_name": "Global Trading",
+    "country": "Saudi Arabia"
+  },
+  {
+    "customer_id": 1003,
+    "customer_name": "Tech Solutions",
+    "country": "Egypt"
+  }
+]
